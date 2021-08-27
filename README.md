@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johan
 - 👀 I’m interested in making frameworks for games and systems
-- 🌱 I’m currently learning Reactive frontend programming and good practices
+- 🌱 I’m currently learning Reactive frontend programming and machine learning
 - 💞️ I’m looking to collaborate on making a stocks trading app
 - 📫 How to reach me: shoot me an email at youhengzhou@cmail.carleton.ca
 

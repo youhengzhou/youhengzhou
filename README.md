@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohannes
 - 👀 I’m interested in making frameworks for games and systems
-- 🌱 I’m currently working on python packages such as this JSON Python Engine https://pypi.org/project/jsonengine/
+- 🌱 I’m currently working on python packages such as this JSON Python Engine https://pypi.org/project/jsoneng/
 - 💞️ I’m looking to collaborate on making a RPG game engine
 - 📫 How to reach me: shoot me an email at youhengzhou@cmail.carleton.ca
 

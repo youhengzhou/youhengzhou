@@ -1,3 +1,12 @@
+<p align="center">
+    <img src="https://s2.svgbox.net/files.svg?ic=css&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=python&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=html&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/social.svg?ic=discord&color=7289da" width="32" height="32" fill="blue">
+    <img src="https://s2.svgbox.net/files.svg?ic=vscode&color=000000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=csharp2" width="32" height="32" color="#000">
+</p>
+
 - 👋 Hi, I’m Yohannes
 - 👀 I’m interested in making frameworks for games and systems
 - 🌱 I’m currently working on python packages such as this JSON Python Engine https://pypi.org/project/jsoneng/

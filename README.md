@@ -5,6 +5,7 @@
     <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=java&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=C++&color=000" width="32" height="32">
+    <img src="https://s2.svgbox.net/files.svg?ic=go&color=000" width="32" height="32">
 </p>
 
 - 👋 Hi, I’m Yohannes

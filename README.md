@@ -5,7 +5,7 @@
     <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=php&color=000" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=java&color=000" width="32" height="32">
-    <img src="https://s2.svgbox.net/files.svg?ic=C++&color=000" width="32" height="32">
+    <img src="https://icons8.com/icon/40669/c%2B%2B" width="32" height="32">
     <img src="https://s2.svgbox.net/files.svg?ic=go&color=000" width="32" height="32">
 </p>
 
